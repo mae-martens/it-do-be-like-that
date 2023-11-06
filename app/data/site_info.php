@@ -8,7 +8,7 @@
  * @property string $site_info['description'] The description of the website.
  */
 $site_info = array(
-    'title' => 'Test Website',
-    'author' => 'John Doe',
-    'description' => 'This is a test website!'
+    'title' => 'Website About Martens',
+    'author' => 'Mae Martens',
+    'description' => 'Learn everything you ever wanted to know about martens.'
 );

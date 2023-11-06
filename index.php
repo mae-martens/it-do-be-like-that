@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="<?php echo $site_info['author']; ?>">
-    <title>Document</title>
+    <title><?php echo $site_info['title']; ?></title>
 </head>
 <body>
     <h1><?php echo $site_info['title']; ?></h1>
